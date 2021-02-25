@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+.dark{
+  background: linear-gradient(to right, #2c3e50, #3498db);;
+  transition: all 300ms ease
+}
+
