@@ -1,7 +1,7 @@
 # basic-calculator
 This a Basic Calculator App that can add, subtract, multiply and dividing two numbers.
 
-DEMO: https://abby-basic-calculator.netlify.app
+DEMO: https://master.drc7s43dn2ovd.amplifyapp.com
 
-**Tech Stack: HTML | CSS | Vanilla JS | Netlify**
+**Tech Stack: HTML | CSS | Vanilla JS | AWS Amplify**
 
